@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Junseok Oh 👋
+
+My research area is Generateive AI
 
 <!--
 **junseokoh1/junseokoh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
